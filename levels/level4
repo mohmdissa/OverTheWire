@@ -1,0 +1,11 @@
+--Level 3--->4
+
+--Objective : find password in a hidden file
+
+#solution :
+-enter the hidden file directory using cd
+-use ls -a list all which also lists the hidden files in the directoy
+-found the hidden file name ...Hiding-From-You
+-use nano ...Hiding-From-You or cat to view file content
+
+$password:xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq

@@ -1,0 +1,13 @@
+- level 2--->3
+
+Objective
+-find a password in a file .The file name contain spaces
+ 
+#Solution : 
+-for the file that its name contain spaces use " " so terminal read the content inside the quotations as one filename
+-so cat -- "--filename with spaces--"
+- -- after cat since filename starts with - 
+
+password:7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+
+
