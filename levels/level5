@@ -1,0 +1,9 @@
+-level 4-->5
+
+!Objective : find the password in the only human readable find that exists in a directory
+
+#Solution :
+-use file command represent type of files
+-look for the file thats type is ASCII , this is the file that is human readable
+
+$password :6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
