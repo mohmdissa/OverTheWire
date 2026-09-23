@@ -1,0 +1,7 @@
+#level1--2
+--Objective : password is stored in a file named - .There is a special way to deal with feels named - , since - is basically read from stdin
+
+--solution : 
+use cat ./- which mean in the current location inside the current location file - , and cat represent the output
+
+$Password :PK8fYLZg2hnHSz83plBL1iEPKdD3QToB 
