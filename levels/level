@@ -1,0 +1,8 @@
+--bandit level 0
+
+--Objective : 
+connect to bandit server using ssh and find password 
+
+found password using command : 
+ls
+cat readme

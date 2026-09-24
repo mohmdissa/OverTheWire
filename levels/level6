@@ -1,0 +1,10 @@
+Level 5--->6 
+!objective : find password in a file that has specific properties
+
+#solution -use find to recursively search for this file in the hierarchy 
+-find ./inhere (find in this directory , in the ihere directory)
+-! -executable (not executable) - -size 130c (c is a suffix for bytes) - 
+-exec file {} ;\ (execute file in the same path that is resulted from find , and pass it to find then stop ) 
+-grep "ASCI" (only the files that output contain ASCI word , this mean this file is human readable)
+
+$password:pXa26xhMWaC2SvDotA4r
