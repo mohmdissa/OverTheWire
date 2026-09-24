@@ -1,0 +1,10 @@
+level 6--->7
+
+!objective find password in a file owned by specific user and group located somewhere on the server
+
+#solution
+use find / instead of find . which search on the whole system
+-user bandit6 / -group bandit7 for specifying the user owner and group owner
+-2>/dev/null ----> redirect stderror (2) to dev/null to only output the correct file
+
+$password : Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3

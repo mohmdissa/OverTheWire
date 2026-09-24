@@ -7,4 +7,4 @@ Level 5--->6
 -exec file {} ;\ (execute file in the same path that is resulted from find , and pass it to find then stop ) 
 -grep "ASCI" (only the files that output contain ASCI word , this mean this file is human readable)
 
-$password:pXa26xhMWaC2SvDotA4r
+$password:pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
