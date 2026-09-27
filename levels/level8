@@ -1,0 +1,3 @@
+level 7--->8
+!objective : find password that is beside word millionth in a file
+$solution: grep -w "millionth" filename

@@ -1,0 +1,4 @@
+level 9--->10
+!objective : password in a file of few human readable strings preceded by several "="
+$solutions : strings file | grep "==="
+$password:B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
