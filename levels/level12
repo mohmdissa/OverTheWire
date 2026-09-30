@@ -1,0 +1,6 @@
+level 11--->12
+objective : rotation of letters by 13 mapping
+solution: cat data.txt | tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz' 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'
+mapped each letter using tr which maps character by character
+
+$password : GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
